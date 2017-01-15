@@ -1,5 +1,4 @@
 
-
 function parseTracker(trackerLink: string) {
   let result = {
     type: '',
@@ -15,9 +14,5 @@ function parseTracker(trackerLink: string) {
   return result;
 
 }
-
-let x = parseTracker('udp://public.popcorn-tracker.org:6969');
-
-console.log(x);
 
 export default parseTracker;

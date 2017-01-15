@@ -11,7 +11,5 @@ function parseTracker(trackerLink) {
     result.path = result.path.split(':')[0];
     return result;
 }
-var x = parseTracker('udp://public.popcorn-tracker.org:6969');
-console.log(x);
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = parseTracker;

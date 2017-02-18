@@ -1,5 +1,7 @@
 # Parse P2P Tracker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/parse-p2p-tracker.svg)](https://greenkeeper.io/)
+
 ### Parse Tracker links to JSON
 
 Break down a UPD or WSS link to a JSON object for easy use.
